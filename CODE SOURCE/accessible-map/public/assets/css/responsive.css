@@ -1,0 +1,1166 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 13-Sep-2018, 13:34:38
+    Author     : lhmeid
+*/
+@media screen and (max-width: 1366px) {
+
+    body .news-listing .bottom-content .all-rows .row .row-content .title a{
+        font-size: 14px;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .add-place.view-search {
+        display: block;
+    }
+
+    .view-search.minus {
+        display: none;
+    }
+
+    .findaplace-listing .filter {
+        display: none;
+    }
+
+    body .filter .filter-form form select {
+        width: 210px;
+        margin-right: 15px;
+    }
+
+    body .filter .filter-form form input {
+        margin-right: 15px;
+        width: 210px;
+    }
+
+    body .filter .filter-form form button {
+        width: 210px;
+    }
+
+    body .contact-us .content .breif {
+        width: 63%;
+    }
+
+    body .news .all-rows .row .title a {
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    body .newsletter .left .image img {
+        width: 100%;
+    }
+
+    body .news-listing .top-content .right form select {
+        width: 200px;
+    }
+
+    body .news-inner .bottom-content .slideshow .bx-controls .bx-controls-direction a.bx-prev {
+        left: -30px;
+    }
+
+    body .news-inner .bottom-content .slideshow .bx-controls .bx-controls-direction a.bx-next {
+        right: -30px;
+    }
+
+    body .related-news-block .all-rows .row .row-content .title a {
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    body .findaplace-listing .filter .filter-form form input, body .findaplace-listing .filter .filter-form form select {
+        width: 200px;
+    }
+
+    body .findaplace-listing .filter .filter-form form .chosen-container {
+        width: 200px;
+    }
+
+    body .findaplace-inner .content .slideshow .bxslider-thumbnail .bx-wrapper:first-of-type {
+        width: 704px;
+    }
+
+    body .findaplace-inner .content .accessibility-features ul li {
+        width: 50%;
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+
+    body .findaplace-inner .content .third-region .accessibility-description {
+        margin-right: 26px;
+    }
+
+    body .findaplace-inner .content .menu-rate .row .filed-set .title a {
+        font-size: 12px;
+    }
+
+    body .add-place .content .left form input, body .add-place .content .left form select {
+        width: 88%;
+    }
+
+    body .add-place .content .left form textarea {
+        width: 88%;
+    }
+
+    body .add-place .content .left form button {
+        width: 88%;
+    }
+
+    body .add-place .content .right .add-place-photo img {
+        width: 100%;
+    }
+
+    body .add-place .content .right .link-add-photo a {
+        width: 100%;
+    }
+
+    body .findaplace-listing .filter .rates .full-rows .row .filed-set {
+        width: 70%;
+    }
+
+    body .filter .filter-form form .select2-selection {
+        margin-right: 15px;
+        width: 210px;
+    }
+
+    body .findaplace-listing .filter .filter-form .form-group #placesmodelsearch-title,
+    body .findaplace-listing .filter .filter-form .form-group .select2-selection--single {
+        width: 200px;
+    }
+
+    body .findaplace-listing .bottom-content .all-rows .row .row-content .image {
+        width: 100%;
+    }
+
+    body .findaplace-listing .bottom-content .all-rows .row .row-content .filed-set {
+        padding: 0px 15px;
+    }
+
+    body .findaplace-inner .content .comments-section form a.btn {
+        margin-top: 0;
+    }
+
+    body .news-inner .bottom-content .comments-section form a.btn {
+        margin-top: 0;
+    }
+
+    body .top-header .right .bottom .menu ul li a {
+        padding: 0px 7px;
+        font-size: 14px;
+    }
+
+    body .findaplace-listing .add-place a.btn {
+        float: none;
+    }
+
+    body .add-place .form-group .select2-container {
+        width: 88% !important;
+    }
+
+    body .news-listing .bottom-content .all-rows .row .row-content .title a{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    body .filter .filter-form form input {
+        margin-right: 0;
+        margin-left: 0;
+        width: 50%;
+        margin: 0px auto;
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    body .filter .filter-form form select {
+        margin-right: 0;
+        margin-left: 0;
+        width: 100%;
+        margin: 0px auto;
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    body .filter .filter-form form button {
+        margin-right: 0;
+        margin-left: 0;
+        margin: 0px auto;
+        display: block;
+        width: 50%;
+    }
+
+    body .contact-us .content .breif {
+        width: 100%;
+        margin-bottom: 15px;
+        float: none;
+        padding: 0;
+    }
+
+    body .contact-us .content .link {
+        display: block;
+        float: none;
+    }
+
+    body .contact-us .content .link a {
+        margin: 0px auto;
+        display: block;
+        float: none;
+    }
+
+    body .news {
+        padding-top: 20px;
+    }
+
+    body .news .bx-controls-direction a.bx-prev {
+        left: 40px;
+    }
+
+    body .news .bx-controls-direction a.bx-next {
+        right: 40px;
+    }
+
+    body .newsletter .left .image img {
+        width: 75%;
+        margin: 0px auto;
+        display: block;
+    }
+
+    body .newsletter .right .news-form h2 {
+        margin-top: 45px;
+        text-align: center;
+    }
+
+    body .newsletter .right .news-form button.sign-up {
+        margin: 0px auto;
+    }
+
+    body .newsletter .right .news-form .help-text {
+        text-align: center;
+    }
+
+    body footer .left, body footer .right {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    body footer .left .quick-links-title {
+        padding-right: 10px;
+    }
+
+    body .contact-us .content {
+        float: none;
+    }
+
+    body .news .bx-controls-direction a {
+        top: 39%;
+    }
+
+    body .sign-in-resiter-page .left {
+        background: inherit;
+        background-size: 100%;
+    }
+
+    body .sign-in-resiter-page .left .tabs {
+        width: 100%;
+    }
+
+    body .sign-in-resiter-page .left .tabs ul {
+        width: 100%;
+    }
+
+    body .sign-in-resiter-page .left .tabs ul li {
+        width: 50%;
+    }
+
+    body .sign-in-resiter-page .left .tabs ul li a {
+        width: 100%;
+    }
+
+    body .sign-in-resiter-page .left .tabs-content .tab-content form select, body .sign-in-resiter-page .left .tabs-content .tab-content form input {
+        width: 100%;
+    }
+
+    body .sign-in-resiter-page .left .tabs-content .tab-content form button {
+        width: 100%;
+    }
+
+    body .sign-in-resiter-page .left .sign-in-using h2 {
+        width: 100%;
+    }
+
+    body h2.page-title {
+        margin-bottom: 25px;
+    }
+
+    body .news-listing .top-content .right {
+        float: left;
+    }
+
+    body .news-listing .top-content .right form {
+        float: left;
+    }
+
+    body .news-inner .bottom-content .slideshow .bx-controls .bx-controls-direction a.bx-next {
+        right: 0;
+    }
+
+    body .news-inner .bottom-content .slideshow .bx-controls .bx-controls-direction a.bx-prev {
+        left: 0;
+    }
+
+    body .news-inner .bottom-content .comments-section form textarea {
+        width: 78%;
+    }
+
+    body .news-inner .bottom-content .comments-section .comment .user-image {
+        width: 100%;
+    }
+
+    body .news-inner .bottom-content .comments-section .comment .filed-set {
+        width: 100%;
+    }
+
+    body .news-inner .bottom-content .comments-section .comment .filed-set .comment-body {
+        max-width: 100%;
+    }
+
+    body .related-news-block .all-rows .row {
+        margin-bottom: 30px;
+    }
+
+    body .news-inner .bottom-content .slideshow .bx-controls .bx-controls-direction a {
+        bottom: 48px;
+    }
+
+    body .findaplace-listing .filter .filter-form form input, body .findaplace-listing .filter .filter-form form select {
+        width: 45%;
+        float: left;
+    }
+
+    body .findaplace-listing .filter .rates {
+        clear: both;
+    }
+
+    body .findaplace-inner .bottom-header .direction-menu .direction {
+        float: none;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    body .findaplace-inner .bottom-header .direction-menu .top-menu {
+        float: left;
+        width: 100%;
+        margin-bottom: 22px;
+    }
+
+    body .findaplace-inner .bottom-header .call-now {
+        margin-bottom: 20px;
+    }
+
+    body .findaplace-inner .bottom-header .menu-rate .row {
+        margin-bottom: 15px;
+    }
+
+    body .findaplace-inner .content .slideshow .bxslider-thumbnail .bx-wrapper:first-of-type {
+        width: 100%;
+        margin-bottom: 12px;
+    }
+
+    body .findaplace-inner .content .slideshow .bxslider-thumbnail .bx-wrapper:first-of-type .bx-viewport {
+        height: auto !important;
+    }
+
+    body .findaplace-inner .content .slideshow .bxslider-thumbnail .bx-wrapper:nth-of-type(2) {
+        position: inherit;
+    }
+
+    body .findaplace-inner .content .slideshow .bxslider-thumbnail .bx-wrapper:nth-of-type(2) .bx-viewport a {
+        width: auto !important;
+    }
+
+    body .findaplace-inner .content .slideshow .bxslider-thumbnail .bx-wrapper:nth-of-type(2) {
+        max-width: 100% !important;
+    }
+
+    body .findaplace-inner .content .slideshow .bxslider-thumbnail .bx-controls {
+        display: none;
+    }
+
+    body .findaplace-inner .content .slideshow .bxslider-thumbnail .bx-wrapper:first-of-type li img {
+        width: 100%;
+    }
+
+    body .findaplace-inner .content .slideshow .bxslider-thumbnail .bx-wrapper:nth-of-type(2) .bx-viewport {
+        height: auto !important;
+    }
+
+    body .findaplace-inner .bottom-header .menu-rate .row {
+        width: 50%;
+        margin: 0px;
+    }
+
+    body .findaplace-inner .content .third-region .accessibility-description {
+        width: 100%;
+        margin-bottom: 20px;
+        float: none;
+    }
+
+    body .findaplace-inner .content .third-region .features-facilities {
+        float: none;
+        width: 100%;
+    }
+
+    body .findaplace-inner .content .comments-section form textarea {
+        width: 58%;
+    }
+
+    body .findaplace-inner .content .comments-section .comment .filed-set .comment-body {
+        max-width: 100%;
+    }
+
+    body .add-place .content .right {
+        margin-top: 41px;
+    }
+
+    body .modal-content .content {
+        padding: 30px 20px;
+    }
+
+    body .filter .filter-form form .form-group {
+        width: 100%;
+    }
+
+    body .filter .filter-form form input {
+        width: 100%;
+    }
+
+    body .filter .filter-form form .select2-selection {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .contact-us-inner {
+        width: 100%;
+    }
+
+    body .top-header .right .bottom .menu ul {
+        padding-top: 12px;
+    }
+
+    body .top-header .right .bottom .menu ul li a {
+        padding: 0px 6px;
+        font-size: 11px;
+    }
+
+    body .findaplace-listing .filter .filter-form .form-group #placesmodelsearch-title,
+    body .findaplace-listing .filter .filter-form .form-group .select2-selection--single {
+        width: 100%;
+    }
+
+    body .findaplace-listing .filter .filter-form .col-sm-3 {
+        width: 100%;
+    }
+
+    .reset_hide_images .sign-in-resiter-page .left {
+        background: #fff;
+    }
+
+    body .sign-in-resiter-page .left .tabs-content .tab-content form .form-group {
+        float: none;
+    }
+
+    body .sign-in-resiter-page .left .tabs-content .tab-content form .field-signupform-first_name input, body .sign-in-resiter-page .left .tabs-content .tab-content form .field-signupform-last_name input {
+        width: 100%;
+    }
+
+    body .sign-in-resiter-page .left .tabs-content .tab-content form .field-signupform-first_name, body .sign-in-resiter-page .left .tabs-content .tab-content form .field-signupform-last_name {
+        float: none;
+    }
+
+    body .sign-in-resiter-page .left .tabs-content .tab-content form .field-signupform-city_id {
+        width: 100%;
+    }
+
+    body .findaplace-inner .content .slideshow .bxslider-thumbnail .bx-wrapper:nth-of-type(2) .bx-viewport a {
+        float: left !important;
+        margin: 0px 10px;
+    }
+
+    .popover {
+        /*        top: 669px !important;*/
+        left: 120px !important;
+    }
+
+    body .findaplace-inner .bottom-header .call-now,
+    body .findaplace-inner .bottom-header .website {
+        display: none;
+    }
+
+    body .findaplace-inner .bottom-header .call-now.responsive,
+    body .findaplace-inner .bottom-header .website.responsive {
+        display: block;
+    }
+
+    body .findaplace-inner .bottom-header .call-now.place {
+        display: block !important;
+    }
+
+    body .findaplace-inner .bottom-header .call-now {
+        margin-bottom: 0;
+    }
+
+    body .findaplace-inner .bottom-header .website {
+        margin-top: 10px;
+    }
+
+    body .findaplace-inner .bottom-header .direction-menu .direction a {
+        padding-bottom: 10px;
+    }
+
+    body .findaplace-inner .content .slideshow .bxslider-thumbnail .bx-wrapper:nth-of-type(2) {
+        display: none;
+    }
+
+    body .findaplace-inner .content .slideshow .bxslider-thumbnail .bx-wrapper:first-of-type .bx-controls {
+        display: block;
+    }
+
+    body .findaplace-inner .content .slideshow .bxslider-thumbnail .bx-controls .bx-controls-direction a.bx-prev {
+        position: absolute;
+        top: 25%;
+        font-size: 0px;
+        width: inherit;
+        float: left;
+        display: block;
+        background-color: inherit;
+        opacity: 1;
+        background-image: url(../images/123.png);
+        color: #fff;
+        width: 40px;
+        height: 40px;
+    }
+
+    body .findaplace-inner .content .slideshow .bxslider-thumbnail .bx-controls .bx-controls-direction a.bx-next {
+        background-color: inherit;
+        opacity: 1;
+        font-size: 0px;
+        position: relative;
+        bottom: inherit;
+        background-image: url(../images/12345.png);
+        width: inherit;
+        float: right;
+        display: block;
+        top: 25%;
+        position: absolute;
+        right: 0;
+        color: #fff;
+        width: 40px;
+        height: 40px;
+    }
+
+    body .findaplace-inner .content .slideshow .bxslider-thumbnail .bx-wrapper:first-of-type {
+        position: relative;
+    }
+
+}
+
+@media screen and (max-width: 736px) {
+    body .top-header .right .responsive-links {
+        display: block;
+        float: right;
+        margin-left: 20px;
+    }
+
+    body .top-header .right .responsive-links img {
+        cursor: pointer;
+    }
+
+    body .top-header .right .responsive-links .close-menu {
+        display: none;
+    }
+
+    body .top-header .right .responsive-links.closed-menu .close-menu {
+        display: block;
+    }
+
+    body .top-header .right .responsive-links.closed-menu .open-menu {
+        display: none;
+    }
+
+    body .top-header .left {
+        width: 30%;
+    }
+
+    body .top-header .left.remove_logo {
+        display: none;
+    }
+
+    body .top-header .right {
+        width: 70%;
+        /*        padding-top: 30px;*/
+        border-bottom: solid 2px #226AA7;
+        padding-bottom: 10px;
+    }
+
+    body .top-header .right .accessibility-tools {
+        margin-bottom: 20px;
+    }
+
+    body .top-header .right .top {
+        float: right;
+        padding-top: 0px;
+    }
+
+    body .top-header .right .top .login {
+        float: none;
+        margin-right: 0;
+    }
+
+    body .top-header .right .top .login ul.sf-menu li a {
+        padding-top: 2px;
+    }
+
+    body .top-header .right .top .login.remove_login {
+        display: none;
+    }
+
+    body .top-header .right .top .social-icons {
+        float: right;
+        display: none;
+        padding-top: 25px;
+    }
+
+    body .top-header .right .top .social-icons.add-social {
+        display: block;
+        margin: 0px auto;
+        float: none;
+    }
+
+    body .top-header .right .top .social-icons.add-social ul {
+        display: table;
+        margin: 0px auto;
+    }
+
+    body .top-header .right .top.full_top {
+        float: none;
+        clear: both;
+    }
+
+    body .top-header .right .bottom {
+        float: none;
+        display: none;
+        padding-top: 25px;
+    }
+
+    body .top-header .right .bottom .search {
+        float: none;
+        text-align: center;
+        border: solid 1px #9B9B9B;
+        border-radius: 14px;
+        padding: 6px;
+        width: 30%;
+        margin: 0px auto;
+        margin-bottom: 15px;
+        position: relative;
+    }
+
+    body .top-header .right .bottom .search a {
+        display: block;
+        text-align: right;
+        padding: 0px 13px;
+        position: relative;
+    }
+
+    body .top-header .right .bottom .search a:before {
+        content: 'Click here for search';
+        position: absolute;
+        left: 10px;
+        top: 2px;
+        color: #9B9B9B;
+    }
+
+    body .top-header .right .bottom .language-switcher {
+        float: none;
+        text-align: center;
+    }
+
+    body .top-header .right .bottom .language-switcher a {
+        padding: 0px;
+    }
+
+    body .top-header .right .bottom .menu {
+        float: none;
+        width: 100%;
+        clear: both;
+    }
+
+    body .top-header .right .bottom .menu ul {
+        float: none;
+        margin-top: 25px;
+    }
+
+    body .top-header .right .bottom .menu ul li {
+        float: none;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    body .top-header .right .bottom .menu ul li a {
+        padding: 0px;
+    }
+
+    body .top-header .right .bottom.add_bottom {
+        display: table;
+        margin: 0px auto;
+        width: 100%;
+    }
+
+    body .top-header .right.full_width {
+        width: 100%;
+    }
+
+    body .news-inner .bottom-content .slideshow .bx-controls .bx-controls-direction a {
+        bottom: 20px;
+    }
+
+    body .modal-content .content {
+        padding: 30px 20px;
+    }
+
+    body .modal-content .content .bottom {
+        float: left;
+        margin-bottom: 20px;
+    }
+
+    body .newsletter .right .news-form .clear .button {
+        width: 100% !important;
+    }
+
+    body .top-header .right .bottom .menu ul li ul.dropdown-menu {
+        position: relative;
+        border: 0px;
+        margin: 0;
+        padding: 0;
+        padding-top: 20px;
+    }
+
+    body .top-header .right .bottom .menu ul li ul.dropdown-menu li {
+        padding-bottom: 0;
+    }
+
+    body .top-header .right .bottom .menu ul li ul.dropdown-menu li a {
+        padding: 2px 10px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    body .top-header .left {
+        width: 30%;
+    }
+
+    body .top-header .left .logo img {
+        width: 100%;
+        height: auto;
+    }
+
+    body .top-header .right .bottom .search {
+        width: 50%;
+    }
+
+    body footer .left .quick-links-title {
+        float: none;
+        text-align: center;
+        padding: 0px;
+        padding-bottom: 20px;
+    }
+
+    body footer .left .quick-links {
+        float: none;
+    }
+
+    body footer .left .quick-links ul {
+        float: none;
+    }
+
+    body footer .left .quick-links ul li {
+        float: none;
+        text-align: center;
+    }
+
+    body footer .left .quick-links ul li a {
+        border: 0px;
+        padding-bottom: 10px;
+    }
+
+    body footer .right {
+        text-align: center;
+    }
+
+    body .filter h1 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    body .filter h2 {
+        font-size: 16px;
+    }
+
+    body .contact-us .content .breif {
+        font-size: 15px;
+    }
+
+    body .contact-us .content .link a {
+        width: 45%;
+        font-size: 12px;
+    }
+
+    body .news h2 {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+
+    body .news .view-all a {
+        width: 65%;
+        font-size: 14px;
+    }
+
+    body .sign-in-resiter-page .left .logo {
+        width: 30%;
+    }
+
+    body .sign-in-resiter-page .left .logo img {
+        width: 100%;
+        height: auto;
+    }
+
+    body .news-inner .bottom-content .slideshow .bx-controls .bx-controls-direction a {
+        bottom: 13px;
+    }
+
+    body .news-inner .bottom-content .share span.title {
+        float: none;
+        padding-right: 0;
+        display: block;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+
+    body .news-inner .bottom-content .share ul {
+        float: none;
+        margin: 0px auto;
+        display: table;
+    }
+
+    body .news-inner .bottom-content .comments-section form textarea {
+        width: 60%;
+    }
+
+    body .findaplace-listing .filter .filter-form form input, body .findaplace-listing .filter .filter-form form select {
+        width: 100%;
+    }
+
+    body .findaplace-listing .filter .rates h3.title-block {
+        padding-top: 20px;
+    }
+
+    body .findaplace-listing .filter .rates .full-rows .row {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+
+    body .findaplace-listing .bottom-content .all-rows .row {
+        width: 100%;
+    }
+
+    body .modal-content .content .row {
+        width: 100%;
+    }
+
+    body .findaplace-inner .content .accessibility-features ul li {
+        width: 100%;
+    }
+
+    body .related-findplace-block .all-rows .row {
+        width: 100%;
+    }
+
+    body .findaplace-inner .bottom-header .menu-rate .row {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    body .findaplace-inner .content .menu-rate .row {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    body .findaplace-inner .bottom-header .direction-menu .top-menu .write-a-review {
+        float: none;
+    }
+
+    body .findaplace-inner .bottom-header .direction-menu .top-menu .write-a-review a {
+        width: 100%;
+    }
+
+    body .findaplace-inner .bottom-header .direction-menu .top-menu .addphoto {
+        float: none;
+    }
+
+    body .findaplace-inner .bottom-header .direction-menu .top-menu .addphoto a {
+        float: none;
+        display: block;
+        width: 100%;
+    }
+
+    body .findaplace-dashboard .bottom-content .all-rows .row {
+        width: 100%;
+    }
+
+    body .savedplaces-listing .content .all-rows .row {
+        width: 100%;
+    }
+
+    body .modal-content .content .row {
+        min-height: auto;
+    }
+
+    body .top-header .right .accessibility-tools .tools-menu .tool {
+        margin-right: 6px;
+    }
+
+    body .findaplace-listing .filter .rates .search-buttons .search-link {
+        float: none;
+    }
+
+    body .findaplace-listing .filter .rates .search-buttons .search-link button {
+        float: none;
+        width: 100%;
+        margin-bottom: 10px;
+        margin-left: 0;
+    }
+
+    body .findaplace-listing .filter .rates .search-buttons .search-link a {
+        width: 100%;
+    }
+
+    body .findaplace-listing .filter .rates .search-buttons .search-link button img {
+        position: relative;
+        left: inherit;
+        top: inherit;
+    }
+
+    body .news-inner iframe {
+        width: 100%;
+    }
+
+    body .news-listing .top-content .right {
+        float: none;
+    }
+
+    body .news-listing .top-content .right form span.select2 {
+        width: 100% !important;
+    }
+
+    body .news-listing .top-content .right form {
+        float: none;
+    }
+
+    body .findaplace-inner .bottom-header .direction-menu .top-menu .addphoto a {
+        text-align: left;
+    }
+
+    body .findaplace-inner .bottom-header .direction-menu .top-menu .write-a-review a {
+        text-align: left;
+    }
+
+    .popover {
+        left: 0 !important;
+        right: 0px !important;
+        margin: 0px auto;
+        min-width: 74% !important;
+    }
+
+    body .findaplace-inner .bottom-header .menu-rate .row .logo {
+        min-width: 60px;
+    }
+
+    body .findaplace-inner .content .menu-rate .row .logo {
+        min-width: 60px;
+    }
+
+    body .news .bx-controls-direction a.bx-next, body .news .bx-controls-direction a.bx-prev {
+        /*display: none;*/
+    }
+
+    body .news-inner .bottom-content .slideshow ul.bx-thumbnail li img {
+        width: 100%;
+    }
+
+    body .inner-content .over-veiw-body {
+        overflow-x: auto;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    body .top-header .right .bottom .search {
+        width: 77%;
+    }
+
+    body .top-header .right .top .login ul.sf-menu li a {
+        font-size: 11px;
+    }
+
+    body .filter .filter-form form select {
+        width: 90%;
+    }
+
+    body .filter .filter-form form button {
+        width: 89%;
+    }
+
+    body .newsletter .right .news-form button.sign-up {
+        width: 80%;
+    }
+
+    body .news .view-all a, body .contact-us .content .link a {
+        width: 100%;
+    }
+
+    body .news .bx-controls-direction a {
+        top: 30%;
+    }
+
+    body .sign-in-resiter-page .left .tabs ul li a,
+    body .sign-in-resiter-page .left .tabs ul li a.active {
+        padding-bottom: 15px;
+        padding-top: 15px;
+        font-size: 18px;
+    }
+
+    body .news-listing .bottom-content .all-rows .row {
+        width: 100%;
+    }
+
+    body .news-listing .top-content .right form select {
+        width: 100%;
+        margin-bottom: 12px;
+    }
+
+    body .related-news-block .all-rows .row {
+        width: 100%;
+    }
+
+    body .news-inner .bottom-content .share span.title {
+        text-align: left;
+    }
+
+    body .news-inner .bottom-content .share {
+        padding: 0px 25px;
+    }
+
+    body .news-inner .bottom-content .comments-section form button {
+        width: 99px;
+    }
+
+    body .news-inner .bottom-content .comments-section form textarea {
+        padding: 10px;
+    }
+
+    body .news-inner .bottom-content .slideshow .bx-controls .bx-controls-direction a {
+        display: none;
+    }
+
+    body .news-inner .bottom-content .slideshow .bx-wrapper {
+        margin-bottom: 15px;
+    }
+
+    body .news-inner .top-content .left-top,
+    body .news-inner .top-content .right-top,
+    body .news-inner .top-content .left-bottom,
+    body .news-inner .top-content .right-bottom {
+        float: none;
+        clear: both;
+    }
+
+    body .news-inner .top-content .right-top .category {
+        float: none !important;
+    }
+
+    body .news-inner .top-content .right-bottom .date {
+        float: none;
+    }
+
+    body .findaplace-listing .filter .rates .search-buttons .advanced-search,
+    body .findaplace-listing .filter .rates .search-buttons .search-link {
+        float: none;
+        margin-bottom: 15px;
+    }
+
+    body .findaplace-listing .filter .rates .search-buttons .search-link a {
+        width: 100%;
+    }
+
+    body .findaplace-listing .bottom-content .sort h3,
+    body .findaplace-listing .bottom-content .sort .sort-form {
+        float: none;
+        margin-bottom: 15px;
+    }
+
+    body .modal-content .content .bottom {
+        float: none;
+        width: 100%;
+    }
+
+    body .modal-content .content .bottom .cancel-link {
+        float: none;
+        text-align: center;
+    }
+
+    body .modal-content .content .bottom .filter-results {
+        float: none;
+        width: 100%;
+    }
+
+    body .modal-content .content .bottom .filter-results a {
+        width: 100%;
+    }
+
+    body .findaplace-inner .content .comments-section form button {
+        width: 90px;
+    }
+
+    body .findaplace-inner .content .comments-section form textarea {
+        padding: 10px;
+    }
+
+    body .findaplace-inner .content .share {
+        padding: 0px 22px;
+    }
+
+    body .top-header .right .accessibility-tools .tools-menu .tool {
+        width: 20%;
+        min-height: 32px;
+    }
+
+    body .top-header .right .accessibility-tools .acc-tool-link .open-tool, body .top-header .right .accessibility-tools .acc-tool-link .close-tool {
+        font-size: 12px;
+        width: 150px;
+    }
+
+    body .news .bx-controls-direction a.bx-prev {
+        left: -4px;
+    }
+
+    body .news .bx-controls-direction a.bx-next {
+        right: -4px;
+    }
+
+    body .news-inner .bottom-content .comments-section form a.btn {
+        width: 100px;
+        font-size: 12px;
+    }
+}
+
+/*# sourceMappingURL=responsive.css.map */
