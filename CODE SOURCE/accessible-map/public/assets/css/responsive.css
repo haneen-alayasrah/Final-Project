@@ -190,7 +190,13 @@ and open the template in the editor.
         display: block;
         width: 50%;
     }
-
+    body .news .all-rows .row{
+        border: 1px solid #DFDFDF;
+        border-radius: 15px;
+        background-color: #FFFFFF;
+        position: relative;
+        margin: 10px;
+width:auto;    }
     body .contact-us .content .breif {
         width: 100%;
         margin-bottom: 15px;

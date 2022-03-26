@@ -75,7 +75,7 @@
                <div class="all-rows">
                    
                    @foreach ($article as $articleitem)
-                  <div class="first row col-md-3 col-sm-6 col-xs-6">
+                  <div class="first row col-md-3 col-sm-12 col-xs-12">
                      <a href="/en/posts/view?slug=jitoa-announces-partnership">
                      </a>
                      <div class="row-content">

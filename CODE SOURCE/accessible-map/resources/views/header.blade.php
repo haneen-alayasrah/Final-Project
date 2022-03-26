@@ -13,14 +13,15 @@
       <script src="{{asset('assets/js/script.js')}}"></script>
       <script src="{{ asset('assets_admin/js/jquery-3.6.0.min.js')}}"></script>
       <link href="{{asset('assets/css/e6196531/css/bootstrap0630.css?v=1641226875')}}" rel="stylesheet">
-      <title>@yield('title')</title>
+      <title>ACCESSIBLE MAP</title>
+      <link rel="shortcut icon" href="/images/logo.jpeg" type="image/x-icon">
    </head>
    <body style="zoom: 1;">
       <header>
          <div class="container">
             <div class="top-header">
                <div class="col-md-3 col-sm-3 col-xs-12 left">
-                  <div class="logo"><a href="index.html"><img src="/images/logo.jpeg"height="170" width="200"/></a></div>
+                  <div class="logo"><a href="index.html"><img src="/images/logo.jpeg" height="170" width="200"/></a></div>
                </div>
                <div class="col-md-9 col-sm-9 col-xs-12 right">
                   <div class="responsive-links"><img src="images/menu.png" class="open-menu"/><img
